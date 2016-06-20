@@ -1,0 +1,10 @@
+name: JoinCommand
+main: com.mengcraft.joincommand.Main
+version: ${project.version}
+author: caoli5288
+
+depend:
+- 'SimpleORM'
+
+softdepend:
+- 'Permission'
